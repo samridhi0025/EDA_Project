@@ -15,7 +15,7 @@ Provided actionable insights to help improve customer experience and optimize in
 <br>
 Key Insights
 Demographics: Married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka working in IT, Healthcare, and Aviation are more likely to purchase products from Food, Clothing, and Electronics categories.
-<br>
 
+<br>
 Conclusion
 This project effectively demonstrates the power of EDA in uncovering valuable insights from sales data. The findings reveal that married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors, are more inclined to purchase products from Food, Clothing, and Electronics categories. These insights can help businesses enhance customer experience and improve sales strategies by focusing on high-demand products and targeted demographics.
